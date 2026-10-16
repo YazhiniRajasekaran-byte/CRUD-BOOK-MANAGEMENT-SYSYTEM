@@ -1,3 +1,4 @@
+CRUD-BOOK-MANAGEMENT SYSTEM
 
 Exercise: Django MVT – CRUD Operations
 Title: Book Management System
@@ -12,9 +13,9 @@ Model Details:
 
 Create a Book model with the following fields:
 
-title – CharField
-author – CharField
-price – IntegerField
+1.title – CharField
+2.author – CharField
+3.price – IntegerField
 Tasks to Perform:
 
 Create a Django project and an application.
