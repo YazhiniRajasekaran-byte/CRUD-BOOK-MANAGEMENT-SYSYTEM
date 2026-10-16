@@ -1,0 +1,30 @@
+
+Exercise: Django MVT – CRUD Operations
+Title: Book Management System
+
+Aim: To develop a simple Book Management System using Django MVT architecture and perform CRUD operations using Django ORM.
+
+Problem Statement:
+
+Create a Django web application to manage book details. The application should allow users to add, view, update, and delete book records.
+
+Model Details:
+
+Create a Book model with the following fields:
+
+title – CharField
+author – CharField
+price – IntegerField
+Tasks to Perform:
+
+Create a Django project and an application.
+Define the Book model and perform database migrations.
+Implement the Create operation to add new book details.
+Implement the Read operation to display all books.
+Implement the Update operation to modify a book's price.
+Implement the Delete operation to remove a book record.
+Configure URL routing and create the required HTML templates.
+Test all CRUD operations in the browser.
+Expected Result:
+
+A working Django MVT application that performs Create, Read, Update, and Delete operations on book records using Django ORM.
